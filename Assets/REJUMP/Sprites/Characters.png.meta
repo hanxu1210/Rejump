@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: 29c72044ebce0744eaa1e92ac23e8ea7
+timeCreated: 1458073111
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pig
+    21300002: Chick
+    21300004: Dog
+    21300006: Hare
+    21300008: Beaver
+    21300010: Fox
+    21300012: Penguin
+    21300014: Corn
+    21300016: Carrot
+    21300018: Fish
+    21300020: Leg
+    21300022: Apple
+    21300024: Wood
+    21300026: Meat
+    21300028: Steak
+    21300030: Log
+    21300032: Sousage
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Pig
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 764
+        width: 189
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70.5, y: 42}
+        - {x: -76.5, y: 42}
+        - {x: -94.5, y: 25}
+        - {x: -94.5, y: -27}
+        - {x: -72.5, y: -118}
+        - {x: 70.5, y: -118}
+        - {x: 72.5, y: -99}
+        - {x: 94.5, y: -24}
+        - {x: 94.5, y: 16}
+    - name: Chick
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 762
+        width: 189
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 52}
+        - {x: 7.5, y: 59}
+        - {x: -33.5, y: 59}
+        - {x: -68.5, y: 42}
+        - {x: -71.5, y: 39}
+        - {x: -71.5, y: -117}
+        - {x: -70.5, y: -118}
+        - {x: 70.5, y: -118}
+        - {x: 71.5, y: -117}
+        - {x: 71.5, y: 41}
+    - name: Dog
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 763
+        width: 189
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.5, y: 71}
+        - {x: 38.5, y: 71}
+        - {x: 35.5, y: 45}
+        - {x: -32.5, y: 71}
+        - {x: -55.5, y: 71}
+        - {x: -71.5, y: 54}
+        - {x: -71.5, y: -118}
+        - {x: 71.5, y: -118}
+        - {x: 71.5, y: 58}
+        - {x: 61.5, y: 68}
+    - name: Hare
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 762
+        width: 189
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: 118}
+        - {x: 19.5, y: 111}
+        - {x: 20.5, y: 42}
+        - {x: -18.5, y: 42}
+        - {x: -18.5, y: 100}
+        - {x: -26.5, y: 118}
+        - {x: -64.5, y: 118}
+        - {x: -70.5, y: 103}
+        - {x: -70.5, y: -118}
+        - {x: 73.5, y: -118}
+        - {x: 73.5, y: 108}
+        - {x: 67.5, y: 118}
+    - name: Beaver
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 472
+        width: 189
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63.5, y: 56}
+        - {x: 24.5, y: 56}
+        - {x: 23.5, y: 43}
+        - {x: -24.5, y: 56}
+        - {x: -58.5, y: 56}
+        - {x: -69.5, y: 43}
+        - {x: -69.5, y: -118}
+        - {x: 72.5, y: -118}
+        - {x: 72.5, y: 50}
+        - {x: 70.5, y: 54}
+    - name: Fox
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 472
+        width: 189
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: 70}
+        - {x: 24.5, y: 49}
+        - {x: -40.5, y: 70}
+        - {x: -50.5, y: 70}
+        - {x: -69.5, y: 40}
+        - {x: -69.5, y: -117}
+        - {x: -68.5, y: -118}
+        - {x: 72.5, y: -118}
+        - {x: 72.5, y: 47}
+        - {x: 62.5, y: 70}
+    - name: Penguin
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 472
+        width: 189
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5, y: 40}
+        - {x: -68.5, y: 37}
+        - {x: -68.5, y: -117}
+        - {x: -67.5, y: -118}
+        - {x: 73.5, y: -118}
+        - {x: 73.5, y: 39}
+        - {x: 70.5, y: 40}
+    - name: Apple
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 221
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 38}
+        - {x: -53, y: -41}
+        - {x: -45, y: -62}
+        - {x: 36, y: -62}
+        - {x: 38, y: -61}
+        - {x: 54, y: -38}
+        - {x: 54, y: 62}
+        - {x: 9, y: 62}
+        - {x: -38, y: 51}
+    - name: Corn
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 222
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: -40}
+        - {x: 30, y: 41}
+        - {x: 24, y: 61}
+        - {x: -41, y: 61}
+        - {x: -41, y: -47}
+        - {x: -40, y: -49}
+        - {x: -25, y: -62}
+        - {x: -5, y: -62}
+        - {x: 3, y: -58}
+        - {x: 37, y: -61}
+        - {x: 43, y: -59}
+    - name: Steak
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 222
+        width: 134
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 62}
+        - {x: -63, y: 35}
+        - {x: -66, y: 21}
+        - {x: -66, y: -58}
+        - {x: -63, y: -62}
+        - {x: 34, y: -62}
+        - {x: 67, y: -53}
+        - {x: 67, y: 50}
+        - {x: 37, y: 62}
+    - name: Carrot
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 222
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: -55}
+        - {x: 1, y: -62}
+        - {x: 12, y: -62}
+        - {x: 12, y: -60}
+        - {x: 6, y: -55}
+      - - {x: 56, y: 35}
+        - {x: 60, y: 35}
+        - {x: 62, y: 36}
+        - {x: 62, y: 49}
+        - {x: 52, y: 60}
+        - {x: -3, y: 60}
+        - {x: -62, y: -27}
+        - {x: -62, y: -61}
+        - {x: -37, y: -61}
+        - {x: 28, y: -33}
+        - {x: 62, y: 10}
+        - {x: 62, y: 29}
+        - {x: 60, y: 33}
+      - - {x: 35, y: -29}
+        - {x: 28, y: -29}
+        - {x: 26, y: -30}
+        - {x: 26, y: -36}
+        - {x: 39, y: -50}
+        - {x: 43, y: -52}
+        - {x: 48, y: -52}
+        - {x: 49, y: -51}
+        - {x: 49, y: -46}
+        - {x: 48, y: -42}
+      - - {x: 54, y: -4}
+        - {x: 52, y: -5}
+        - {x: 52, y: -10}
+        - {x: 59, y: -18}
+        - {x: 62, y: -18}
+        - {x: 62, y: -8}
+        - {x: 59, y: -4}
+      - - {x: -59, y: -4}
+        - {x: -51, y: -4}
+        - {x: -51, y: 2}
+        - {x: -58, y: 13}
+        - {x: -62, y: 13}
+        - {x: -62, y: -2}
+      - - {x: -46, y: 45}
+        - {x: -47, y: 44}
+        - {x: -47, y: 40}
+        - {x: -45, y: 36}
+        - {x: -42, y: 31}
+        - {x: -36, y: 23}
+        - {x: -29, y: 23}
+        - {x: -28, y: 24}
+        - {x: -28, y: 34}
+        - {x: -39, y: 45}
+      - - {x: -18, y: 62}
+        - {x: -18, y: 57}
+        - {x: -9, y: 48}
+        - {x: 0, y: 48}
+        - {x: 1, y: 49}
+        - {x: 1, y: 52}
+        - {x: 0, y: 55}
+        - {x: -8, y: 62}
+    - name: Log
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 216
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 62}
+        - {x: -62, y: 16}
+        - {x: -62, y: -16}
+        - {x: -34, y: -62}
+        - {x: -6, y: -62}
+        - {x: 62, y: -18}
+        - {x: 62, y: 11}
+        - {x: 34, y: 62}
+    - name: Sousage
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 219
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 62}
+        - {x: 22, y: 59}
+        - {x: -62, y: -27}
+        - {x: -62, y: -58}
+        - {x: -61, y: -62}
+        - {x: 31, y: -62}
+        - {x: 62, y: -20}
+        - {x: 62, y: 62}
+    - name: Fish
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 60
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 62}
+        - {x: -59, y: -7}
+        - {x: -59, y: -62}
+        - {x: 15, y: -62}
+        - {x: 59, y: -25}
+        - {x: 59, y: 42}
+        - {x: 39, y: 62}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
