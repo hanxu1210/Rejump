@@ -70,7 +70,7 @@ public class Player : MonoBehaviour
     }
 
     private void Update() {
-        if (Input.GetKeyDown (KeyCode.JoystickButton0))
+        if (KeyboardHandler.IsOkButtonDown())
         {
             Jump();
         }

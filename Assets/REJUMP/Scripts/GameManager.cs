@@ -68,8 +68,8 @@ public class GameManager : MonoBehaviour
         forceScale.filledImage.fillAmount = power;
 
         //if power is 100% and player's current block is not a chill block, make it jump;
-        if (power > 0.99F && !chill && enableAutoJump)
-            player.Jump();
+        // if (power > 0.99F && !chill && enableAutoJump)
+        //     player.Jump();
 
         //Change target color, based on power value;
         if (power < forceScale.colors[0].scaleValue)

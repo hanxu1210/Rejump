@@ -14,17 +14,20 @@ public class Tutorial : MonoBehaviour
 	void Start ()
     {
         //Load first game start key to know if game was already played to not showing tutorial every game start;
-        firstPlay = PlayerPrefs.HasKey("played");
+        firstPlay = PlayerPrefs.HasKey("played1111");
 	}
 	
 	// Update is called once per frame
 	public void StartTutorial ()
     {
         //Show tutorial if game started firste time;
-        if (!firstPlay && enableTutorial)
-            StartCoroutine(ShowTutorial());
-        else
-            tutorialPanel.SetActive(false);
+        // if (!firstPlay && enableTutorial)
+        //     StartCoroutine(ShowTutorial());
+        // else
+        //     tutorialPanel.SetActive(false);
+
+
+        tutorialPanel.SetActive(false);
 	}
 
     //Show first tutorial tooltip;

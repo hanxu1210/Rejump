@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/REJUMP/Scenes/JumpOver.unity
+  isLoaded: 1
+  isActive: 1
